@@ -1,0 +1,23 @@
+{
+  "name": "private-npm-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renovate-tests/private-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renovate-tests/private-npm/issues"
+  },
+  "dependencies": {
+    "@asksidsfiosdf/private-module-test": "^1.0.0",
+    "prettier": "1.5.2"
+  },
+  "homepage": "https://v#readme"
+}
