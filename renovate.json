@@ -1,3 +1,7 @@
 {
-  "extends": [":library"]
+  "extends": [":library"],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": "on thursday"
+  }
 }
