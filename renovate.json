@@ -1,5 +1,6 @@
 {
   "extends": [":library"],
+  "prCreation": "immediate",
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": "on thursday"
