@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@asksidsfiosdf/private-module-test": "^1.0.0",
+    "chalk": "^2.0.0",
     "prettier": "1.5.2"
   },
   "homepage": "https://v#readme"
